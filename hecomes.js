@@ -2,10 +2,10 @@
  * He Comes - Animated text fuck-up script.
  * 2013 Brandon DeRosier
  *
- * /web/20150101161728/http://cheesekeg.com/listings/projects/hecomes/hecomes.js
+ * https://github.com/bdero/animated-zalgo
  * 
  * This javascript is licensed under the GNU General Public License, version 3 or later.
- * /web/20150101161728/http://www.gnu.org/licenses/gpl-3.0-standalone.html
+ * http://www.gnu.org/licenses/gpl-3.0-standalone.html
  *
  *
  * TO USE: Include this script into the header of a page containing text element(s) with
@@ -15,7 +15,7 @@
 
 // MiniDaemon - Mozilla Developer Network - ver. 1.0 rev. 1
 // This framework is released under the GNU General Public License, version 3 or later.
-// /web/20150101161728/http://www.gnu.org/licenses/gpl-3.0-standalone.html
+// http://www.gnu.org/licenses/gpl-3.0-standalone.html
  
 function MiniDaemon (oOwner, fTask, nRate, nLen) {
   if (!(this && this instanceof MiniDaemon)) { return; }
